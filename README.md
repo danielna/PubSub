@@ -1,0 +1,4 @@
+PubSub
+======
+
+Simple JS PubSub
