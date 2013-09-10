@@ -10,6 +10,7 @@
 // Write unsubscribe function
 // Also consider the implications of pub/sub using an id,
 // or more importantly if this will even work if I don't use it.
+// Context, context, context!
 // Clean this up like crazy.
 
 
